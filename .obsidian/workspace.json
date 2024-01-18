@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "713e2288eb494971",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa0a4b0f2693528d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a9fe6a961dd208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Differentiation of Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "149a0193bbd71351",
+    "type": "split",
+    "children": [
+      {
+        "id": "43362d01d79e5445",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e68685945c0c842",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce6c5e6c8ff21c94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfd4d32f4f1cef78",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b2e9962802da678",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b04d0a041be651c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa43f54a834c33b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Differentiation of Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91314e89accfc023",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Differentiation of Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c192eff0abca2e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c7ce16ea71cae4b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Differentiation of Functions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "26a9fe6a961dd208",
+  "lastOpenFiles": [
+    "README.md",
+    "Photos/Composite Functions Diagram.png",
+    "12 - Composite Functions.md",
+    "11 - Functions (or Maps).md",
+    "10 - Groups.md",
+    "9 - Injective and Surjective Functions.md",
+    "8 - Inverse Functions.md",
+    "7 - Logic.md",
+    "6 - Notation.md",
+    "5 - Permutations.md",
+    "4 - Nth Order Differential Equations.md",
+    "3 - Set Theory.md",
+    "2 - Continuity of Functions.md",
+    "1 - Differentiation of Functions.md",
+    "Textbooks/Topology by Munkres.md",
+    "Textbooks/A Course in Group Theory by Humphreys.md",
+    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
+    "Untitled.canvas",
+    "[[01.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Photos",
+    "Textbooks",
+    "Photos/Subsets Notation.png",
+    "School/Math/01 - Composite Functions.md",
+    "School/Math/01 - Injective and Surjective.md",
+    "School/Math/01 - Functions (or Maps).md",
+    "School/Math/00 - Topology by Munkres.md",
+    "School/Math/00 - A Course in Group Theory by Humphreys.md",
+    "School/Math/01 - Set Theory.md",
+    "School/Math/01 - Logic.md",
+    "School/Math/02 - Composite Functions.png",
+    "School/Math/02 - Subsets.png",
+    "School/Computer Science",
+    "School/Math"
+  ]
+}
