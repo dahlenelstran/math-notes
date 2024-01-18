@@ -9,3 +9,5 @@ I use [ObsidianMD](https://obsidian.md/) to keep track of my notes, at least for
 Essentially how I organize it, is for each class I create a file for the textbook. Then, as we follow the textbook, I create pages for each topic and record the theorems and definitions we learn, creating connections between topics where necessary.
 
 The goal for this note-taking strategy is simple: I want to be able to recognize the overlap and big ideas of my classes together more easily. I'm hoping this will achieve that!
+
+PS: To get the full vision of my notes, download them and open them as a vault in Obsidian. There, my formatting will looks pretty, footnotes will load, and my LaTeX won't look so off-putting :)
