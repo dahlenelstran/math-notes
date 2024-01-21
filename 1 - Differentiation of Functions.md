@@ -1,4 +1,3 @@
-m
 #topic 
 
 >1.1) Definition^[Lecture 1, 01-09-2024, [[Introduction to Analysis by Gaughan]]]: Let $f: D \mapsto R$ with $x_0$ an accumulation point of $D$ and $x_0 \in D$. For each $x \in D$ with $x \neq x_0$, define $T(x)  = \frac{f(x)-f(x_0)}{x-x_0}$. The function $f$ is said to be **differentiable** at $x_0$ if and only if $T$ has a limit at $x_0$ ([[11 - Functions (or Maps)]]).

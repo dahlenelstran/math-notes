@@ -18,6 +18,3 @@
 >11.7) Definition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: For any set X, the **identity map** is the map ${id}_x: X \mapsto N$ defined by ${id}_x(x)=x$ for all $x \in X$.
 >>It is clear from the definition that if $f: X \mapsto Y$ is any map, then $f \circ {id}_x = f$ and ${id}_x \circ f= f$.
 
->11.8) Definition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: A **relation** on a set $X$ is a subset $R$ of the cartesian product $X \times X = \{ (x_1, x_2): x_1, x_2 \in X\}$
->>we will often write $xRy$ to mean that $(x,y)$ is in $R$ ([[6 - Notation]]).
-

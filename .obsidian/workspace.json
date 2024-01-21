@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "aa0a4b0f2693528d",
+        "id": "1d62772f3b307a14",
         "type": "tabs",
         "children": [
           {
-            "id": "26a9fe6a961dd208",
+            "id": "e8b1d1cb6e666bd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Differentiation of Functions.md",
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "64c81693bc0350b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53990cdf28f7b6ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/A Course in Group Theory by Humphreys.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Differentiation of Functions.md",
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Differentiation of Functions.md",
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Differentiation of Functions.md"
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md"
               }
             }
           }
@@ -147,27 +165,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26a9fe6a961dd208",
+  "active": "e8b1d1cb6e666bd0",
   "lastOpenFiles": [
+    "Textbooks/A Course in Group Theory by Humphreys.md",
+    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+    "5 - Permutations.md",
+    "3 - Set Theory.md",
+    "Equivelence Cl.md",
+    "Textbooks/Topology by Munkres.md",
+    "11 - Functions (or Maps).md",
+    "12 - Composite Functions.md",
+    "9 - Injective and Surjective Functions.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
+    "1 - Differentiation of Functions.md",
+    "Untitled.canvas",
     "README.md",
     "Photos/Composite Functions Diagram.png",
-    "12 - Composite Functions.md",
-    "11 - Functions (or Maps).md",
     "10 - Groups.md",
-    "9 - Injective and Surjective Functions.md",
     "8 - Inverse Functions.md",
     "7 - Logic.md",
     "6 - Notation.md",
-    "5 - Permutations.md",
     "4 - Nth Order Differential Equations.md",
-    "3 - Set Theory.md",
     "2 - Continuity of Functions.md",
-    "1 - Differentiation of Functions.md",
-    "Textbooks/Topology by Munkres.md",
-    "Textbooks/A Course in Group Theory by Humphreys.md",
     "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
-    "Untitled.canvas",
     "[[01.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
@@ -180,7 +200,6 @@
     "School/Math/00 - Topology by Munkres.md",
     "School/Math/00 - A Course in Group Theory by Humphreys.md",
     "School/Math/01 - Set Theory.md",
-    "School/Math/01 - Logic.md",
     "School/Math/02 - Composite Functions.png",
     "School/Math/02 - Subsets.png",
     "School/Computer Science",

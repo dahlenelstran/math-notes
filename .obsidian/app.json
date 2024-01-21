@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "showIndentGuide": true
 }
