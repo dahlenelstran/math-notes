@@ -1,5 +1,5 @@
 #topic 
->13.1) Definition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: A **relation** on a set $X$ is a subset $R$ of the cartesian product $X \times X = \{ (x_1, x_2): x_1, x_2 \in X\}$. ([[3 - Set Theory]])
+>13.1) Definition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: A **relation** on a set $X$ is a subset $R$ of the Cartesian product $X \times X = \{ (x_1, x_2): x_1, x_2 \in X\}$. ([[3 - Set Theory]])
 >>We will often write $xRy$ to mean that $(x,y)$ is in $R$ ([[6 - Notation]]).
 >
 >>I think about relations as being ways to compare elements in a set, or to map each element to another element in the same set. I'll admit, I'm a little confused on them, so let me find a lot of examples. 
