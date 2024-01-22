@@ -1,10 +1,10 @@
 #topic
 
 > 10.1) Definition^[Lecture 1, 01-09-24, [[A Course in Group Theory by Humphreys]]]: A **group** is a set *G* together with an operation $\circ$ satisfying the following requirements:
->> (G1) **Closure Axiom**: for each pair $x,y$ of elements of *G*, $x \circ y$ is an element of *G*
->> (G2) **Associativity Axiom**: for all elements $x, y, z$ of *G*, $(x \circ y) \circ z = x \circ (y \circ z)$
->> (G3) **Identity Axiom**: there is an element *e* in *G* such that for all *g* in *G* $e \circ g = g = g \circ e$
->> (G4) **Inverse Axiom**: given an element *g* in *G* such that $g \circ g' = e = g' \circ g$
+>>1. **Closure Axiom**: for each pair $x,y$ of elements of *G*, $x \circ y$ is an element of *G*
+>>2. **Associativity Axiom**: for all elements $x, y, z$ of *G*, $(x \circ y) \circ z = x \circ (y \circ z)$
+>>3. **Identity Axiom**: there is an element *e* in *G* such that for all *g* in *G* $e \circ g = g = g \circ e$
+>>4. **Inverse Axiom**: given an element *g* in *G* such that $g \circ g' = e = g' \circ g$
 
 >10.2) Definition^[Lecture 1, 01-09-24, [[A Course in Group Theory by Humphreys]]]: A group *G* is said to be abelian if for all $x,y$ in *G*, $x \circ y = y \circ x$ . 
 

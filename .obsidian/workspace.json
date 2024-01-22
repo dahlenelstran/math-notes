@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1d62772f3b307a14",
+        "id": "fa121f0511c57739",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b1d1cb6e666bd0",
+            "id": "74151a4e7b9217f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "64c81693bc0350b5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53990cdf28f7b6ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textbooks/A Course in Group Theory by Humphreys.md",
-                "mode": "source",
+                "file": "10 - Groups.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -83,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+                "file": "10 - Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+                "file": "10 - Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md"
+                "file": "10 - Groups.md"
               }
             }
           }
@@ -165,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8b1d1cb6e666bd0",
+  "active": "74151a4e7b9217f9",
   "lastOpenFiles": [
     "Textbooks/A Course in Group Theory by Humphreys.md",
+    "10 - Groups.md",
     "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
     "5 - Permutations.md",
     "3 - Set Theory.md",
@@ -181,7 +163,6 @@
     "Untitled.canvas",
     "README.md",
     "Photos/Composite Functions Diagram.png",
-    "10 - Groups.md",
     "8 - Inverse Functions.md",
     "7 - Logic.md",
     "6 - Notation.md",
