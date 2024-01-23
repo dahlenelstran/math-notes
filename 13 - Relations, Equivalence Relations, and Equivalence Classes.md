@@ -29,4 +29,4 @@
 >13.4) Definition^[Lecture 3, 01-18-2024, [[A Course in Group Theory by Humphreys]]]: For any set $X$, a set of non-empty subsets of $X$ is a partition of $X$ if each element of $X$ is in precisely one of the subsets. It follows that the union of the set of subsets is $X$, but the intersection of any two different subsets is the empty set.
 
 >13.5) Proposition^[Lecture 3, 01-18-2024, [[A Course in Group Theory by Humphreys]]]: The equivalence classes of any equivalence relation on  set $X$ form a partition of the set.
->>Proof: Because $R$ is reflexive, any element $x$ in $X$ is in the equivalence class 
+>>Proof: Because $R$ is reflexive, any element $x$ in $X$ is in the equivalence class $[x]_R$ and so the union of all equivalence classes is $X$. If $z$ is in both $[x]_R$ and $[y]_R$, then $xRz$ and $yRz$ by the definition of equivalence classes. Since $R$ is symmetric, we see that $zRy$ and so the fact that $R$ is transitive means that $xRy$. Thus, $y$ is in $[x]_R$ and $yRx$, so that $[x]_R = [y]_R$. 

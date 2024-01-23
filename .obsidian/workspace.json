@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Groups.md",
-                "mode": "preview",
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dac5b356771a889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Independent Study Lecture 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 - Groups.md",
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 - Groups.md",
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Groups.md"
+                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md"
               }
             }
           }
@@ -148,13 +160,14 @@
   },
   "active": "74151a4e7b9217f9",
   "lastOpenFiles": [
-    "Textbooks/A Course in Group Theory by Humphreys.md",
-    "10 - Groups.md",
+    "Independent Study Lecture 1.md",
     "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+    "Textbooks/A Course in Group Theory by Humphreys.md",
+    "Textbooks/Topology by Munkres.md",
+    "10 - Groups.md",
     "5 - Permutations.md",
     "3 - Set Theory.md",
     "Equivelence Cl.md",
-    "Textbooks/Topology by Munkres.md",
     "11 - Functions (or Maps).md",
     "12 - Composite Functions.md",
     "9 - Injective and Surjective Functions.md",
@@ -180,7 +193,6 @@
     "School/Math/01 - Functions (or Maps).md",
     "School/Math/00 - Topology by Munkres.md",
     "School/Math/00 - A Course in Group Theory by Humphreys.md",
-    "School/Math/01 - Set Theory.md",
     "School/Math/02 - Composite Functions.png",
     "School/Math/02 - Subsets.png",
     "School/Computer Science",
