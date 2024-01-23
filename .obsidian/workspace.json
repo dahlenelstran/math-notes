@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "320df8c354766872",
+        "id": "3b66936f3991208c",
         "type": "tabs",
         "children": [
           {
-            "id": "908e52f11f7b9794",
+            "id": "8f3dc61fc752b3d9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b2e9962802da678",
@@ -138,16 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "908e52f11f7b9794",
+  "active": "8f3dc61fc752b3d9",
   "lastOpenFiles": [
+    "Textbooks/Introduction to Analysis by Gaughan.md",
+    "1 - Differentiation of Functions.md",
+    "14 - IVT, MVT, and Rolle's Theorem.md",
     "12 - Composite Functions.md",
     "9 - Injective and Surjective Functions.md",
     "8 - Inverse Functions.md",
     "Textbooks/Topology by Munkres.md",
     "11 - Functions (or Maps).md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
-    "1 - Differentiation of Functions.md",
     "2 - Continuity of Functions.md",
     "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
     "3 - Set Theory.md",
@@ -172,7 +174,6 @@
     "School/Math/01 - Injective and Surjective.md",
     "School/Math/01 - Functions (or Maps).md",
     "School/Math/00 - Topology by Munkres.md",
-    "School/Math/00 - A Course in Group Theory by Humphreys.md",
     "School/Math/02 - Composite Functions.png",
     "School/Math/02 - Subsets.png",
     "School/Computer Science",
