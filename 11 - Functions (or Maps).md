@@ -12,7 +12,7 @@
 >11.5) Definition^[Lecture 1, 01-14-2024, [[Topology by Munkres]]]: Let $f: A \mapsto B$. If $A_0$ is a subset of *A*, we denote by $f(A_0)$ the set of all images of points of $A_0$ under the function *f*; this set is called the **image** of $A_0$ under *f*.
 >>Formally: $f(A_0) = \{b | b = f(a) \text{ for at least one } a \in A_0\}$ 
 
->11.6) Definition^[Lecture 1, 01-14-2024, [[Topology by Munkres]]]: if $B_0$ is a subset of *B*, we denote by $f^{-1}(B_{0})$ the set of all elements of *A* whose images under *f* lie is $B_0$; it is called the **preimage** of $B_0$ under *f* (or the **counterimage** or the **inverse image** of $B_0$).
+>11.6) Definition^[Lecture 1, 01-14-2024, [[Topology by Munkres]]]: if $B_0$ is a subset of *B*, we denote by $f^{-1}(B_{0})$ the set of all elements of *A* whose images under *f* lie is $B_0$; it is called the **preimage** of $B_0$ under *f* (or the **counterimage** or the **inverse image** of $B_0$). ([[8 - Inverse Functions]])
 >>Formally: $f^{-1}(B_0)=\{a | f(a) \in B_0\}$
 
 >11.7) Definition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: For any set X, the **identity map** is the map ${id}_x: X \mapsto N$ defined by ${id}_x(x)=x$ for all $x \in X$.

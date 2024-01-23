@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74151a4e7b9217f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2dac5b356771a889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Independent Study Lecture 1.md",
+                "file": "12 - Composite Functions.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c46030a6ffe8bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/Topology by Munkres.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3b2e9962802da678",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+                "file": "12 - Composite Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+                "file": "12 - Composite Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md"
+                "file": "12 - Composite Functions.md"
               }
             }
           }
@@ -158,30 +159,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74151a4e7b9217f9",
+  "active": "2dac5b356771a889",
   "lastOpenFiles": [
-    "Independent Study Lecture 1.md",
-    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-    "Textbooks/A Course in Group Theory by Humphreys.md",
     "Textbooks/Topology by Munkres.md",
-    "10 - Groups.md",
-    "5 - Permutations.md",
-    "3 - Set Theory.md",
-    "Equivelence Cl.md",
-    "11 - Functions (or Maps).md",
-    "12 - Composite Functions.md",
-    "9 - Injective and Surjective Functions.md",
+    "Textbooks/A Course in Group Theory by Humphreys.md",
     "Textbooks/Introduction to Analysis by Gaughan.md",
     "1 - Differentiation of Functions.md",
+    "2 - Continuity of Functions.md",
+    "8 - Inverse Functions.md",
+    "11 - Functions (or Maps).md",
+    "12 - Composite Functions.md",
+    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
+    "9 - Injective and Surjective Functions.md",
+    "3 - Set Theory.md",
+    "Independent Study Lecture 1.md",
+    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+    "10 - Groups.md",
+    "5 - Permutations.md",
+    "Equivelence Cl.md",
     "Untitled.canvas",
     "README.md",
     "Photos/Composite Functions Diagram.png",
-    "8 - Inverse Functions.md",
     "7 - Logic.md",
     "6 - Notation.md",
     "4 - Nth Order Differential Equations.md",
-    "2 - Continuity of Functions.md",
-    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
     "[[01.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
