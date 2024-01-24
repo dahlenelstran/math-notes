@@ -1,0 +1,30 @@
+- [ ] Clean github
+- [ ] Move Control Center from github to obsidian
+- [ ] Check mac obsidian
+- [ ] Find spotify playlist covers
+- [ ] Move notes from journal to obsidian
+- [ ] Get github working on macbook
+- [ ] Create [[Calendar Project]]
+- [ ] Create [[SW Database]]
+- [ ] Make sure [[Comics]] are up to date
+- [ ] App to read and edit pdf's on iPad, PC, and laptops?
+- [ ] Make my own google drive setup with a crossover between sheets and docs using markdown 
+- [ ] My own spotify to use on the computer to use my flac files
+- [ ] Mod iPod classic and get flac files
+- [ ] Repair Xbox One X Disc Drive
+- [ ] Fix up Plex on home server
+- [ ] Check canvas and add items to calendar
+- [ ] Sort this list into "This week", "This month", and "This year".
+- [ ] fix macros on keyboard
+- [ ] fix mouse + numpad
+- [ ] Make my own Rockbox theme?
+- [ ] Fix Degree Progression
+- [ ] Move Notion here
+- [ ] Compare Notion Calendar with Obsidian plugin and google calendar
+- [ ] Look into fixing task manager
+- [ ] Check Chrome OneTab
+- [ ] Fix school accounts on gaming pc
+- [ ] Go through chrome, firefox, and gx passwords
+- [ ] Make dream ergo keyboard layout on ipad
+- [ ] Go through computer apps
+- [ ] Switch from hyprpaper to swww
