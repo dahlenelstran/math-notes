@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
+                "file": "4 - Nth Order Differential Equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e66f00bcddfe2e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dcffd2c34c90ac58",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
+                "file": "4 - Nth Order Differential Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
+                "file": "4 - Nth Order Differential Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Introduction to Analysis by Gaughan.md"
+                "file": "4 - Nth Order Differential Equations.md"
               }
             }
           }
@@ -148,6 +161,9 @@
   },
   "active": "817e6a39c1efc36f",
   "lastOpenFiles": [
+    "4 - Nth Order Differential Equations.md",
+    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
     "controlcenter/vimtex.md",
     "controlcenter/treesitter.md",
     "controlcenter/setup.md",
@@ -171,11 +187,8 @@
     "controlcenter/Arch Linux Learning.md",
     "controlcenter",
     "Textbooks/Topology by Munkres.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
-    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
     "Textbooks",
-    "README.md",
     "Photos/Subsets Notation.png",
     "Photos/Composite Functions Diagram.png",
     "Photos",
