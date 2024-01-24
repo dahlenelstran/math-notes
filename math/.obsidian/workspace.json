@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "0293b63c6cec3cbe",
+    "id": "61dd039178f24c76",
     "type": "split",
     "children": [
       {
-        "id": "ca82b934af3c7c50",
+        "id": "83a9f3390ba96912",
         "type": "tabs",
         "children": [
           {
-            "id": "817e6a39c1efc36f",
+            "id": "5c8c697e701fa2a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test Note for Github.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d8c778afd0c0c831",
+    "id": "b3da3dfc9ec2a6f2",
     "type": "split",
     "children": [
       {
-        "id": "a8e8d4c3f8d5c848",
+        "id": "15f1abf7fddf9efe",
         "type": "tabs",
         "children": [
           {
-            "id": "73a89f9226f71d17",
+            "id": "ce985e9db88b9a16",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "3ada272ea2f1dc1d",
+            "id": "3306c4bd7e3e5ea4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "209cb0607f3b2b4a",
+            "id": "64e09e0861f91167",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "dcffd2c34c90ac58",
+    "id": "0413a943b6df1e6f",
     "type": "split",
     "children": [
       {
-        "id": "1a4bf7a08cb41910",
+        "id": "acd7cb4a3813140a",
         "type": "tabs",
         "children": [
           {
-            "id": "199b05fd53624a48",
+            "id": "06961f0939b90bda",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Note for Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "93387546644256e1",
+            "id": "2c6c4930b39571c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Note for Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2dc4422cfd512b70",
+            "id": "628fe57b6f6f9727",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "d8df8d8674efaf08",
+            "id": "cba7929329b9bae3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Note for Github.md"
+              }
             }
           }
         ]
@@ -138,42 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73a89f9226f71d17",
+  "active": "ce985e9db88b9a16",
   "lastOpenFiles": [
-    "Textbooks/Topology by Munkres.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
-    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
-    "Textbooks/A Course in Group Theory by Humphreys.md",
-    "Textbooks",
-    "Test Note for Github.md",
-    "README.md",
-    "Photos/Subsets Notation.png",
-    "Photos/Composite Functions Diagram.png",
-    "Photos",
-    "Independent Study Lecture 1.md",
-    "9 - Injective and Surjective Functions.md",
-    "8 - Inverse Functions.md",
-    "7 - Logic.md",
-    "6 - Notation.md",
-    "5 - Permutations.md",
-    "4 - Nth Order Differential Equations.md",
-    "3 - Set Theory.md",
-    "2 - Continuity of Functions.md",
-    "14 - IVT, MVT, and Rolle's Theorem.md",
-    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-    "12 - Composite Functions.md",
-    "11 - Functions (or Maps).md",
-    "10 - Groups.md",
-    "1 - Differentiation of Functions.md",
-    "math/Independent Study Lecture 1.md",
-    "math/14 - IVT, MVT, and Rolle's Theorem.md",
-    "math/13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-    "math/Textbooks/Topology by Munkres.md",
-    "math/Textbooks/Introduction to Analysis by Gaughan.md",
-    "math/Photos/Subsets Notation.png",
-    "math/Photos/Composite Functions Diagram.png",
-    "math/Textbooks",
-    "math/Photos",
-    "math"
+    "Test Note for Github.md"
   ]
 }
