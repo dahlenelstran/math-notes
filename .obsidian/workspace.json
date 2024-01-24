@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "713e2288eb494971",
+    "id": "0293b63c6cec3cbe",
     "type": "split",
     "children": [
       {
-        "id": "3b66936f3991208c",
+        "id": "ca82b934af3c7c50",
         "type": "tabs",
         "children": [
           {
-            "id": "8f3dc61fc752b3d9",
+            "id": "817e6a39c1efc36f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "149a0193bbd71351",
+    "id": "d8c778afd0c0c831",
     "type": "split",
     "children": [
       {
-        "id": "43362d01d79e5445",
+        "id": "a8e8d4c3f8d5c848",
         "type": "tabs",
         "children": [
           {
-            "id": "4e68685945c0c842",
+            "id": "73a89f9226f71d17",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "ce6c5e6c8ff21c94",
+            "id": "3ada272ea2f1dc1d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "cfd4d32f4f1cef78",
+            "id": "209cb0607f3b2b4a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "3b2e9962802da678",
+    "id": "dcffd2c34c90ac58",
     "type": "split",
     "children": [
       {
-        "id": "6b04d0a041be651c",
+        "id": "1a4bf7a08cb41910",
         "type": "tabs",
         "children": [
           {
-            "id": "3aa43f54a834c33b",
+            "id": "199b05fd53624a48",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,18 +97,19 @@
             }
           },
           {
-            "id": "91314e89accfc023",
+            "id": "93387546644256e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4c192eff0abca2e5",
+            "id": "2dc4422cfd512b70",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,18 +120,20 @@
             }
           },
           {
-            "id": "c7ce16ea71cae4b9",
+            "id": "d8df8d8674efaf08",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -139,44 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f3dc61fc752b3d9",
+  "active": "817e6a39c1efc36f",
   "lastOpenFiles": [
-    "Textbooks/Introduction to Analysis by Gaughan.md",
-    "1 - Differentiation of Functions.md",
-    "14 - IVT, MVT, and Rolle's Theorem.md",
-    "12 - Composite Functions.md",
-    "9 - Injective and Surjective Functions.md",
-    "8 - Inverse Functions.md",
+    "controlcenter/vimtex.md",
+    "controlcenter/treesitter.md",
+    "controlcenter/setup.md",
+    "controlcenter/Wishlist.md",
+    "controlcenter/Welcome.md",
+    "controlcenter/Thinkpad.md",
+    "controlcenter/Things to research.md",
+    "controlcenter/Shows to Finish.md",
+    "controlcenter/Things to do.md",
+    "controlcenter/SW Database.md",
+    "controlcenter/PC Parts.md",
+    "controlcenter/Obsidian.md",
+    "controlcenter/Neovim.md",
+    "controlcenter/Music.md",
+    "controlcenter/Games to Finish.md",
+    "controlcenter/Drink Ratings.md",
+    "controlcenter/Comics.md",
+    "controlcenter/Comics to Read.md",
+    "controlcenter/Calendar Project.md",
+    "controlcenter/Arch Linux.md",
+    "controlcenter/Arch Linux Learning.md",
+    "controlcenter",
     "Textbooks/Topology by Munkres.md",
-    "11 - Functions (or Maps).md",
-    "Textbooks/A Course in Group Theory by Humphreys.md",
-    "2 - Continuity of Functions.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
     "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
-    "3 - Set Theory.md",
-    "Independent Study Lecture 1.md",
-    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-    "10 - Groups.md",
-    "5 - Permutations.md",
-    "Equivelence Cl.md",
-    "Untitled.canvas",
-    "README.md",
-    "Photos/Composite Functions Diagram.png",
-    "7 - Logic.md",
-    "6 - Notation.md",
-    "4 - Nth Order Differential Equations.md",
-    "[[01.md",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Photos",
+    "Textbooks/A Course in Group Theory by Humphreys.md",
     "Textbooks",
+    "README.md",
     "Photos/Subsets Notation.png",
-    "School/Math/01 - Composite Functions.md",
-    "School/Math/01 - Injective and Surjective.md",
-    "School/Math/01 - Functions (or Maps).md",
-    "School/Math/00 - Topology by Munkres.md",
-    "School/Math/02 - Composite Functions.png",
-    "School/Math/02 - Subsets.png",
-    "School/Computer Science",
-    "School/Math"
+    "Photos/Composite Functions Diagram.png",
+    "Photos",
+    "math/Photos/Subsets Notation.png",
+    "math/Photos/Composite Functions Diagram.png",
+    "math/Textbooks",
+    "math/Photos",
+    "math"
   ]
 }
