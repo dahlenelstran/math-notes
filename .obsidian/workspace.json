@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2c6c692cd52d90",
+        "id": "18a628d85ed869ac",
         "type": "tabs",
         "children": [
           {
-            "id": "8e30faa9b9e4bf7a",
+            "id": "72e454b5ce664b41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -61,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dcffd2c34c90ac58",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md"
+              }
             }
           }
         ]
@@ -138,20 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e30faa9b9e4bf7a",
+  "active": "72e454b5ce664b41",
   "lastOpenFiles": [
-    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-    "14 - IVT, MVT, and Rolle's Theorem.md",
     "Textbooks/Topology by Munkres.md",
     "2 - Continuity of Functions.md",
-    "1 - Differentiation of Functions.md",
+    "Introduction to Analysis.md",
     "Textbooks/Introduction to Analysis by Gaughan.md",
-    "00 - Introduction to Analysis.md",
+    "Untitled.md",
+    "10 - Groups.md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
-    "11 - Functions (or Maps).md",
-    "6 - Notation.md",
-    "12 - Composite Functions.md",
+    "12 - Composite Functions.md~",
+    "16 - Congruence Modulo N.md",
+    "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+    "15 - Subgroups.md",
+    "2024-01-25.md",
     "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
+    "1 - Differentiation of Functions.md",
     "4 - Nth Order Differential Equations.md",
     "controlcenter/vimtex.md",
     "controlcenter/treesitter.md",
@@ -165,7 +177,6 @@
     "controlcenter/SW Database.md",
     "controlcenter/PC Parts.md",
     "controlcenter/Obsidian.md",
-    "controlcenter/Neovim.md",
     "controlcenter",
     "Textbooks",
     "Photos/Subsets Notation.png",

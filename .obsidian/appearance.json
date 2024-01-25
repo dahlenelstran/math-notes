@@ -3,5 +3,6 @@
   "translucency": false,
   "theme": "obsidian",
   "cssTheme": "AnuPpuccin",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": ""
 }

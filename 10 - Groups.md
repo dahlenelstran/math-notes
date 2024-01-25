@@ -1,5 +1,7 @@
 #topic
 
+## Defining Groups
+
 > 10.1) Definition^[Lecture 1, 01-09-24, [[A Course in Group Theory by Humphreys]]]: A **group** is a set *G* together with an operation $\circ$ satisfying the following requirements:
 >>1. **Closure Axiom**: for each pair $x,y$ of elements of *G*, $x \circ y$ is an element of *G*
 >>2. **Associativity Axiom**: for all elements $x, y, z$ of *G*, $(x \circ y) \circ z = x \circ (y \circ z)$
@@ -14,3 +16,11 @@
 >>Example: $g \circ h = gh$, or $g \circ g = gg = g^2$
 >>Additive Notation would look like this: $g \circ h = g + h$, or $g \circ g = g+g = 2g$
 
+## Consequences of the definitions
+
+>Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: In any group $G$, there is only one identity element.
+>>Proof is obvious.
+
+>Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: Every element in a group has a unique inverse.
+>>Proof: Supposed that $g$ is an element of a group $G$ with two inverses $g^*$ and $g^{-1}$. This means that $gg^*=1=g^*g$  and $gg^{-1}=1=g^{-1}g$. Then it follows that $g^*(gg^{-1})=g^*1=g^*$. But also, $g^*(gg^{-1})=(g^*g)g^{-1}=g^{-1}1=g^{-1}$. Therefore $g^*=g^{-1}$.
+>>
