@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8925bd8e7d20192",
+        "id": "aa2c6c692cd52d90",
         "type": "tabs",
         "children": [
           {
-            "id": "13fad3412b675008",
+            "id": "8e30faa9b9e4bf7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ec10e5ff5064b9d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "843b60ebe027e8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textbooks/Topology by Munkres.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "13 - Relations, Equivalence Relations, and Equivalence Classes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13fad3412b675008",
+  "active": "8e30faa9b9e4bf7a",
   "lastOpenFiles": [
-    "Textbooks/Topology by Munkres.md",
     "13 - Relations, Equivalence Relations, and Equivalence Classes.md",
+    "14 - IVT, MVT, and Rolle's Theorem.md",
+    "Textbooks/Topology by Munkres.md",
     "2 - Continuity of Functions.md",
     "1 - Differentiation of Functions.md",
     "Textbooks/Introduction to Analysis by Gaughan.md",
@@ -191,7 +166,6 @@
     "controlcenter/PC Parts.md",
     "controlcenter/Obsidian.md",
     "controlcenter/Neovim.md",
-    "controlcenter/Music.md",
     "controlcenter",
     "Textbooks",
     "Photos/Subsets Notation.png",
