@@ -8,3 +8,6 @@
 [[11 - Functions (or Maps)]]
 [[12 - Composite Functions]]
 [[9 - Injective and Surjective Functions]]
+
+## Relations
+[[13 - Relations, Equivalence Relations, and Equivalence Classes]]

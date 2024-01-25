@@ -10,7 +10,7 @@
 >>$f_2 \circ f_3(b) = f_2(b)=a$
 >>>Therefore, $f_2 \circ f_3 = f_2$ because they have the same *rule of assignment* ([[11 - Functions (or Maps)]]).
 
->12.3) Proposition: Given map $f: X \mapsto Y$, $g: Y \mapsto Z$, and $h: Z \mapsto W$ the composite maps $(h \circ g) \circ f: X \mapsto W$ and $h \circ (g \circ f): X \mapsto W$ are equal.
+>12.3) Proposition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: Given map $f: X \mapsto Y$, $g: Y \mapsto Z$, and $h: Z \mapsto W$ the composite maps $(h \circ g) \circ f: X \mapsto W$ and $h \circ (g \circ f): X \mapsto W$ are equal.
 >>Proof: By definition, for all $x \in X$,
 >>$$((h \circ g) \circ f)(x) = (h \circ g)(f(x)) = h(g((f(x))) = h(g \circ f(x)) = (h\circ(g\circ f))(x)$$
 >>It follows that $(h \circ g) \circ f$ and $h \circ (g \circ f)$ are equal.

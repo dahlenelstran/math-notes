@@ -3,6 +3,7 @@
 >11.1) Definition^[Lecture 2, 01-11-2024, [[A Course in Group Theory by Humphreys]]]: A **map** (or **function**) $f: X \mapsto Y$ is a rule which assigns to each element $x \in X$ to element $f(x) \in Y$.
 
 >11.2) Definition^[Lecture 1, 01-14-2024, [[Topology by Munkres]]]: A **rule of assignment** is a subset *R* of the cartesian product *C* x *D* or two sets, having the property that each element of *C* appears as the first coordinate of at most one ordered pair belonging to *R*.
+>>Note that a rule of assignment $r$ for a function $f: A \mapsto A$ is also a subset of $A \times A$, is considered a relation^[[[13 - Relations, Equivalence Relations, and Equivalence Classes]]], just a strict one^[Lecture 2, 01-24-2024, [[Topology by Munkres]]].
 
 >11.3) Definition^[Lecture 1, 01-14-2024, [[Topology by Munkres]]]: the **image set** of *R* is defined as the subset of the domain consisting of all second coordinates of elements of *R*.
 
