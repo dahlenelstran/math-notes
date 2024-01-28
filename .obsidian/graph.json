@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#topic  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 14329051
       }
+    },
+    {
+      "query": "tag: #lecture",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag: #class",
+      "color": {
+        "a": 1,
+        "rgb": 4027965
+      }
     }
   ],
   "collapse-display": false,
@@ -28,10 +42,10 @@
   "nodeSizeMultiplier": 0.610416666666667,
   "lineSizeMultiplier": 1.2484375,
   "collapse-forces": false,
-  "centerStrength": 0.697916666666667,
+  "centerStrength": 0.729166666666667,
   "repelStrength": 19.6875,
   "linkStrength": 0.666666666666667,
   "linkDistance": 500,
-  "scale": 0.6316046762907553,
+  "scale": 0.6316046762907641,
   "close": true
 }

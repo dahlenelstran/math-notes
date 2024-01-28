@@ -1,3 +1,4 @@
+#lecture 
 ## History of Classical Mechanics
 - Isaac Newton created Calculus and Classic Mechanics
 - Classical Mechanics: Newton's Second Law - $m \times x''(t) = f(x,t)$
@@ -23,12 +24,3 @@
 
 ## Homework:
 Which way does the trajectory go along the ellipse? Positive or negative direction?
-
-## Notes to self
-learn how to do vectors in latex
-make ode, pde, diff eq shortcut, initial conditions
-learn greek letters
-change hyprland close to something harder
-screenshotting in linux
-move all obsidian vaults to github
-fix github on mac
