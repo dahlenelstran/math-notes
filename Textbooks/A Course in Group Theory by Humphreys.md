@@ -9,6 +9,3 @@
 [[16 - Congruence Modulo N]] 
 ## Chapter 3: Elementary Consequences of the Definitions
 [[10 - Groups]]
-
-
-# Take notes from prop 3.3 up to prop 4.13

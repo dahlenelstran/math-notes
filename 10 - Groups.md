@@ -18,9 +18,25 @@
 
 ## Consequences of the definitions
 
->Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: In any group $G$, there is only one identity element.
+>10.5) Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: In any group $G$, there is only one identity element.
 >>Proof is obvious.
 
->Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: Every element in a group has a unique inverse.
+>10.6) Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: Every element in a group has a unique inverse.
 >>Proof: Supposed that $g$ is an element of a group $G$ with two inverses $g^*$ and $g^{-1}$. This means that $gg^*=1=g^*g$  and $gg^{-1}=1=g^{-1}g$. Then it follows that $g^*(gg^{-1})=g^*1=g^*$. But also, $g^*(gg^{-1})=(g^*g)g^{-1}=g^{-1}1=g^{-1}$. Therefore $g^*=g^{-1}$.
->>
+
+>10.7) Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: Let $a$ and $b$ be elements of a group $G$. There is a unique element $x \in G$ such that $ax=b$, and there is also a unique element $y \in G$ such that $ya=b$. 
+>>Essentially saying that every element is a multiple or factor of another element.
+>
+>>Proof: We must prove both that $x$ exists, and that it is unique. 
+>>1. Uniqueness: Suppose the equation has two solutions $x$ and $z$, so that $ax=b=az$. By 10.1, $a$ has an inverse, call it $a^{-1}$. Therefore we have $a^{-1}(ax)=a^{-1}(az)$. By associativity, we can get $(a^{-1}a)x)=(a^{-1}a)z)$, so that,because of identity element existence, $x=z$. Therefore $x$ is unique.
+>>2. Existence: To prove $x \in G$, we must prove $x=b(a^{-1}) \in G$, and that it satisfies $ax=b$. 
+>>	1. By existence of an inverse, we know $a_{-1} \in G$, and $b \in G$ is given. By closure, $b(a^{-1}) \in G$, so $x \in G$. 
+>>	2. Let $x=b(a^{-1})$. Then we have $ax=b \rightarrow a(b(a^{-1}))=b$. By associativity, this equals $(aa^{-1})b=b$, and by the identity element existence, $b=b$. 
+>>Therefore the proof is complete. 
+>
+>>Remark: Note that because right and left operations are not necessarily the same, $x=b(a^{-1})$, and $x \neq a^{-1}(b)$.
+
+>10.8) Corollary^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: Let $a$ and $b$ be elements of a group $G$. Then the inverse of $ab$ is $b^{-1}a^{-1}$.
+>>Proof is elementary.
+
+>10.9 Proposition^[01-16-2024, Lecture 3, [[A Course in Group Theory by Humphreys]]]: Let $g_1, g_2, \dots$ be elements of a group $G$. 
