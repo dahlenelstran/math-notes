@@ -6,7 +6,7 @@ Meeting Times: TR 12:25 - 1:30
 Textbook: [[A Course in Group Theory by Humphreys]]
 ## General Notes for the Class
 Questions for Prof:
-- [[13 - Relations, Equivalence Relations, and Equivalence Classes]]
+- [[13 - Relations]]
 ## Lectures
 ### Unit 1
 [[MATH 5250 - Lecture 1]]

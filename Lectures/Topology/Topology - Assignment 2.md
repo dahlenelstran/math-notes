@@ -1,5 +1,5 @@
 #lecture 
->Note that a rule of assignment $r$ for a function $f: A \mapsto A$ is also a subset of $A \times A$, is considered a relation^[[[13 - Relations, Equivalence Relations, and Equivalence Classes]]], just a strict one.
+>Note that a rule of assignment $r$ for a function $f: A \mapsto A$ is also a subset of $A \times A$, is considered a relation^[[[13 - Relations]]], just a strict one.
 
 >Remark: Every element of a set $A$ belongs to an equivalence class, and the union of all equivalence classes is equal to $A$.
 >>Example: Consider defining two points equal if they have the same distance from the origin. Thus, each equivalence relation is simply a circle. The union of all circles on the plane, as well as the point itself, makes up the plane. 

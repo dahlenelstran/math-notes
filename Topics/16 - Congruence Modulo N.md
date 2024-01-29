@@ -1,5 +1,5 @@
 #topic 
->16.1) Definition^[[[MATH 5250 - Lecture 3]]]: A **congruence class** is the relation of congruence modulo $n$, and is technically an equivalence class^[[[13 - Relations, Equivalence Relations, and Equivalence Classes]]]. 
+>16.1) Definition^[[[MATH 5250 - Lecture 3]]]: A **congruence class** is the relation of congruence modulo $n$, and is technically an equivalence class^[[[13 - Relations]]]. 
 >
 >>This is written as $[1]_3$, where this represents all numbers that give remainder $1$ when divided by $3$. 
 

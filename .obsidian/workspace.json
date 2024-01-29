@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/MATH 5450/MATH 5450 - Week 2.md",
+                "file": "Lectures/Topology/Topology - Assignment 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "527c32b9bd2d3139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18 - Equivalence Relations and Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "779aff368749a138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "19 - Order Relations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1199434419c0cc33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Bounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dcffd2c34c90ac58",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/MATH 5450/MATH 5450 - Week 2.md",
+                "file": "Lectures/Topology/Topology - Assignment 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/MATH 5450/MATH 5450 - Week 2.md",
+                "file": "Lectures/Topology/Topology - Assignment 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/MATH 5450/MATH 5450 - Week 2.md"
+                "file": "Lectures/Topology/Topology - Assignment 3.md"
               }
             }
           }
@@ -146,8 +183,85 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73a89f9226f71d17",
+  "floating": {
+    "id": "04dac8fed82f3bed",
+    "type": "floating",
+    "children": [
+      {
+        "id": "13bbd9108bc71bf9",
+        "type": "window",
+        "children": [
+          {
+            "id": "cb527c9435a182cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b5e0d3a7b085f88b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Topics/13 - Relations.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2560,
+        "y": 201,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "03bebc863838fb0c",
+        "type": "window",
+        "children": [
+          {
+            "id": "113ddceca9daf444",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f080110a42c8cc7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Textbooks/Topology by Munkres.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3520,
+        "y": 201,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f675528d46e2beef",
   "lastOpenFiles": [
+    "18 - Equivalence Relations and Classes.md",
+    "Topics/13 - Relations.md",
+    "19 - Order Relations.md",
+    "6 - Bounds.md",
+    "Textbooks/Topology by Munkres.md",
+    "Independent Studies/Topology.md",
+    "Lectures/Topology/Topology - Assignment 3.md",
+    "Topics/9 - Injective and Surjective Functions.md",
+    "Lectures/MATH 5450/MATH 5450 - Week 2.md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
     "Classes/MATH 5250 - Modern Algebra.md",
     "17 - Cyclic Groups.md",
@@ -159,7 +273,6 @@
     "11 - Functions (or Maps).md",
     "Classes",
     "Textbooks/Introduction to Analysis by Gaughan.md",
-    "Textbooks/Topology by Munkres.md",
     "2 - Continuity of Functions.md",
     "12 - Composite Functions.md~",
     "16 - Congruence Modulo N.md",
@@ -168,14 +281,6 @@
     "1 - Differentiation of Functions.md",
     "4 - Nth Order Differential Equations.md",
     "controlcenter/vimtex.md",
-    "controlcenter/treesitter.md",
-    "controlcenter/setup.md",
-    "controlcenter/Wishlist.md",
-    "controlcenter/Welcome.md",
-    "controlcenter/Thinkpad.md",
-    "controlcenter/Things to research.md",
-    "controlcenter/Shows to Finish.md",
-    "controlcenter/Things to do.md",
     "controlcenter",
     "Textbooks",
     "Photos/Subsets Notation.png",

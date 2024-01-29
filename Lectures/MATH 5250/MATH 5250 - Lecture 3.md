@@ -66,7 +66,7 @@
 >Proposition: The equivalence classes of any equivalence relation on  set $X$ form a partition of the set.
 >>Proof: Because $R$ is reflexive, any element $x$ in $X$ is in the equivalence class $[x]_R$ and so the union of all equivalence classes is $X$. If $z$ is in both $[x]_R$ and $[y]_R$, then $xRz$ and $yRz$ by the definition of equivalence classes. Since $R$ is symmetric, we see that $zRy$ and so the fact that $R$ is transitive means that $xRy$. Thus, $y$ is in $[x]_R$ and $yRx$, so that $[x]_R = [y]_R$. 
 
->Definition: A **congruence class** is the relation of congruence modulo $n$, and is technically an equivalence class^[[[13 - Relations, Equivalence Relations, and Equivalence Classes]]]. 
+>Definition: A **congruence class** is the relation of congruence modulo $n$, and is technically an equivalence class^[[[13 - Relations]]]. 
 >
 >>This is written as $[1]_3$, where this represents all numbers that give remainder $1$ when divided by $3$. 
 

@@ -40,7 +40,7 @@
 ## Chapter 5: The Riemann Integral
 ### The Riemann Integral
 >Definition^[Lecture 5, 01-25-2024, [[Introduction to Analysis by Gaughan]]]: Let $a < b$.
->1. $p = \{x_0, x_1, \dots, x_n\}$ is a partition^[[[13 - Relations, Equivalence Relations, and Equivalence Classes]]] of $[a,b]$ if $a=x_0<x_1< \dots < x_{n-1} <x_n = b$.
+>1. $p = \{x_0, x_1, \dots, x_n\}$ is a partition^[[[13 - Relations]]] of $[a,b]$ if $a=x_0<x_1< \dots < x_{n-1} <x_n = b$.
 >2. If $P$ and $Q$ are partitions of $[a,b]$ with $P \subset Q$ , then $D$ is called a refinement of $P$. Let $f: [a,b] \mapsto \mathbb{R}$ be bounded, $m \leq f(x) \leq M$, and $p=\{x_0,\dots,x_n\}$ be a partition of [a,b]. For $i=1, 2, \dots, n$ define $M_i(f)=sup\{f(x): x \in [x_{i-1},x_1]\}$ and $m_i(f)=inf\{f(x): x \in [x_{i-1},x_i]\}$. Then $m \leq m_i \leq M_i \leq M$.
 >3. Let $U(P,f)=\sum^n_{{i=1}} M_i(f)(x_1-x_{i-1})$, and $L(P,f)=\sum^n_{{i=1}} m_i(f)(x_1-x_{i-1})$, called the upper and lower sum, respectively. So we have $m(b-a) \leq L(P,f) \leq U(P,f) \leq M(b-a)$.
 

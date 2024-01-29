@@ -2,7 +2,7 @@
 >11.1) Definition^[[[MATH 5250 - Lecture 2]]]: A **map** (or **function**) $f: X \mapsto Y$ is a rule which assigns to each element $x \in X$ to element $f(x) \in Y$.
 
 >11.2) Definition^[[[Topology - Assignment 1]]]: A **rule of assignment** is a subset *R* of the cartesian product *C* x *D* or two sets, having the property that each element of *C* appears as the first coordinate of at most one ordered pair belonging to *R*.
->>Note that a rule of assignment $r$ for a function $f: A \mapsto A$ is also a subset of $A \times A$, is considered a relation^[[[13 - Relations, Equivalence Relations, and Equivalence Classes]]], just a strict one^[[[Topology - Assignment 2]]].
+>>Note that a rule of assignment $r$ for a function $f: A \mapsto A$ is also a subset of $A \times A$, is considered a relation^[[[13 - Relations]]], just a strict one^[[[Topology - Assignment 2]]].
 
 >11.3) Definition^[[[Topology - Assignment 1]]]: the **image set** of *R* is defined as the subset of the domain consisting of all second coordinates of elements of *R*.
 
