@@ -20,7 +20,16 @@
 
 ## Phase Picture
 - A Phase Plane is a graph with a dependent variable of $x'$ and an independent variable of $x$. 
+- ![[Spring.png]]
+- ![[Phase Plane.jpg]]
 - To make the Phase Picture, let $\frac{m}{2}=\frac{k}{2}=1$ so that we have an ellipse.
 
 ## Homework:
 Which way does the trajectory go along the ellipse? Positive or negative direction?
+
+## Post Lecture Studies
+- I think the trajectory is going in the clockwise, or positive, direction. This is because the spring, when let go from the maximum $x$ position, will go backwards resulting in a negative velocity, until it reaches it's natural state $x=0$, in which it will still go back, but slower as the spring builds up tension, until it is at the minimum position. Then, it will spring forward quickly until the natural state $x=0$, and then go forward slowly until the maximum. A similar event occurs when it is let go from the minimum $x=0$ position. 
+
+**Date:** 
+**Class Page:**
+**Next Lecture:** [[Quantum Mechanics - Lecture 2]] 

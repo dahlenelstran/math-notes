@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f675528d46e2beef",
+            "id": "4b7b3331d41dbdc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "527c32b9bd2d3139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18 - Equivalence Relations and Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "779aff368749a138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "19 - Order Relations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1199434419c0cc33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Bounds.md",
+                "file": "Quantum Mechanics - Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 3.md",
+                "file": "Quantum Mechanics - Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 3.md",
+                "file": "Quantum Mechanics - Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 3.md"
+                "file": "Quantum Mechanics - Lecture 2.md"
               }
             }
           }
@@ -183,83 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "04dac8fed82f3bed",
-    "type": "floating",
-    "children": [
-      {
-        "id": "13bbd9108bc71bf9",
-        "type": "window",
-        "children": [
-          {
-            "id": "cb527c9435a182cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b5e0d3a7b085f88b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Topics/13 - Relations.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2560,
-        "y": 201,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "03bebc863838fb0c",
-        "type": "window",
-        "children": [
-          {
-            "id": "113ddceca9daf444",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f080110a42c8cc7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Textbooks/Topology by Munkres.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3520,
-        "y": 201,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f675528d46e2beef",
+  "active": "4b7b3331d41dbdc6",
   "lastOpenFiles": [
-    "18 - Equivalence Relations and Classes.md",
-    "Topics/13 - Relations.md",
-    "19 - Order Relations.md",
-    "6 - Bounds.md",
-    "Textbooks/Topology by Munkres.md",
-    "Independent Studies/Topology.md",
+    "Lectures/Quantum Mechanics/Quantum Mechanics -  Lecture 1.md",
+    "Quantum Mechanics - Lecture 2.md",
+    "Photos/Spring.png",
+    "Photos/Phase Plane.jpg",
+    "Untitled.md",
     "Lectures/Topology/Topology - Assignment 3.md",
+    "Topics/20 - Indexing Functions and Arbitrary Sets.md",
+    "Topics/6 - Bounds.md",
+    "Untitled.canvas",
+    "Independent Studies/Topology.md",
+    "Independent Studies/Quantum Mechanics.md",
+    "Topics/13 - Relations.md",
+    "Topics/18 - Equivalence Relations and Classes.md",
+    "Topics/19 - Order Relations.md",
+    "Textbooks/Topology by Munkres.md",
     "Topics/9 - Injective and Surjective Functions.md",
     "Lectures/MATH 5450/MATH 5450 - Week 2.md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
@@ -276,11 +180,6 @@
     "2 - Continuity of Functions.md",
     "12 - Composite Functions.md~",
     "16 - Congruence Modulo N.md",
-    "2024-01-25.md",
-    "Textbooks/Elementary Differential Equations and Boundary Value Problems by Boyce and DiPrima.md",
-    "1 - Differentiation of Functions.md",
-    "4 - Nth Order Differential Equations.md",
-    "controlcenter/vimtex.md",
     "controlcenter",
     "Textbooks",
     "Photos/Subsets Notation.png",

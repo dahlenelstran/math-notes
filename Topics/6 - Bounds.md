@@ -5,3 +5,5 @@
 
 >6.2) Definition^[[[Topology - Assignment 2]]]: An ordered set $A$ is said to have the **least upper bound property** if every nonempty subset $A_0$ of $A$ that is bounded above has a least upper bound.
 >>The same thing can be said for the **greatest lower bound property**.
+>
+>>Remark^[[[Topology - Assignment 3]]]: The order relation^[[[13 - Relations]]] $<$ has the least upper bound property.
