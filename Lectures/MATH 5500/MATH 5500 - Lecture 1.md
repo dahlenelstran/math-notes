@@ -31,6 +31,6 @@
 >Definition: A function $f: D \mapsto \mathbb{R}$ is **uniformly continuous** on $E \subset D$ if and only if for every $\mathcal{E} > 0$, there is $\delta > 0$ such that if $x, y \in E$ with $|x - y| < \delta$, then $|f(x) - f(y)| < \mathcal{E}$.
 >>Related definition: If $f$ is uniformly continuous on $D$, we say $f$ is uniformly continuous.
 
-**Date:** January 10th, 2024
+**Date:** January 10, 2024
 **Class Page:** [[MATH 5500 - Introduction to Analysis II]]
 **Next Lecture:** [[MATH 5500 - Lecture 2]]
