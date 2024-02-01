@@ -146,74 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "42719c8a706d54b8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "3a3ed06a0875127b",
-        "type": "window",
-        "children": [
-          {
-            "id": "f58dc9bfbf9ff360",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b666ffc10c0aef46",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Textbooks/Topology by Munkres.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2560,
-        "y": 201,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "29a903e3bc48e666",
   "lastOpenFiles": [
-    "Textbooks/Topology by Munkres.md",
-    "Lectures/Topology/Topology - Assignment 4.md",
-    "Lectures/Topology/Topology - Assignment 3.md",
-    "Topics/20 - Indexing Functions and Arbitrary Sets.md",
-    "Independent Studies/Topology.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
-    "Lectures/MATH 5450/MATH 5450 - Week 1.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 6.md",
-    "Topics/14 - IVT, MVT, and Rolle's Theorem.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 5.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 4.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
+    "Lectures/Topology/Topology - Assignment 4.md",
+    "Topology - Assignment 4.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 5.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 4.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 3.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 3.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 2.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 1.md",
-    "Topics/7 - Logic.md",
+    "Lectures/MATH 5450/MATH 5450 - Week 2.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 3.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 4.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 5.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 6.md",
     "Lectures/Quantum Mechanics/Quantum Mechanics - Lecture 2.md",
+    "Lectures/Topology/Topology - Assignment 1.md",
+    "Lectures/Topology/Topology - Assignment 2.md",
+    "Lectures/Topology/Topology - Assignment 3.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
+    "Lectures/MATH 5450/MATH 5450 - Week 1.md",
+    "Topics/14 - IVT, MVT, and Rolle's Theorem.md",
+    "Topics/7 - Logic.md",
     "Lectures/Quantum Mechanics/Quantum Mechanics -  Lecture 1.md",
     "Photos/Spring.png",
     "Photos/Phase Plane.jpg",
     "Untitled.md",
-    "Topics/6 - Bounds.md",
+    "Topics/20 - Indexing Functions and Arbitrary Sets.md",
     "Untitled.canvas",
-    "Independent Studies/Quantum Mechanics.md",
     "Classes",
     "12 - Composite Functions.md~",
     "controlcenter",
