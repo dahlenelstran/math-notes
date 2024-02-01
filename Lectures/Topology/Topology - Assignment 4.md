@@ -1,4 +1,5 @@
 #lecture 
+- [ ] Sorted
 **Assignment: Read Theorem 6.2 + Corollaries, Section 7. Do problem 5.4 d and e**
 
 >Theorem: Let $A$ be a set; suppose that there exists a bijection^[[[9 - Injective and Surjective Functions]]] $f: A \mapsto \{1, \dots, n\}$ for some $n \in \mathbb{Z_+}$. Let $B$ be a proper subset^[[[3 - Set Theory]]] of $A$. Then there exists no bijection $g: B \mapsto \{1, \dots, n\}$; but (provided $B \neq \emptyset$) there does exist a bijection $h: B \mapsto \{1, \dots, m\}$ for some $m < n$. 

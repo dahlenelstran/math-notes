@@ -1,4 +1,5 @@
 #lecture 
+- [x] Sorted
 **Assignment: Section 5, Problems 3 & 4; Read assumption on pg.30, note properties 6 and 7, read well-ordering principle**
 
 >Remark: The order relation^[[[13 - Relations]]] $<$ has the least upper bound property.

@@ -1,4 +1,5 @@
 #lecture 
+- [x] Sorted
 >Definition: Let $f: D \mapsto R$ with $x_0$ an accumulation point of $D$ and $x_0 \in D$. For each $x \in D$ with $x \neq x_0$, define $T(x)  = \frac{f(x)-f(x_0)}{x-x_0}$. The function^[[[11 - Functions (or Maps)]]] $f$ is said to be **differentiable**^[[[1 - Differentiation of Functions]]] at $x_0$ if and only if $T$ has a limit at $x_0$.
 >Alternate Definition: Let $f: D \mapsto R$ with $x_0$ an accumulation point of $D$ and $x_0 \in D$. For each $t \in R$ such that $x_0 + t \in D$ and $t \neq 0$, define $Q(t)=\frac{f(x_0+t)-f(x_0)}{t}$. The function is said to be **differentiable** at $x_0$ if and only if and only if $Q$ has a limit at zero. 
 >>Related Definition: If $f$ is differentiable for each $x \in E \subset D$, we say $f$ is **differentiable** on $E$.

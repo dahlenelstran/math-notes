@@ -1,5 +1,5 @@
 #lecture 
-
+- [ ] Sorted
 >Proposition: Let $G$ be a finite cyclic group of order $n$. For any divisor $d$ of $n$, the group $G$ has precisely one subgroup $G_d$ with $d$ elements. The number of group elements $x$ satisfying the equation $x^d=1$ is $d$ and these are precisely the elements of the subgroup $G_d$.
 >>Proof: Was told not to worry about this one. 
 

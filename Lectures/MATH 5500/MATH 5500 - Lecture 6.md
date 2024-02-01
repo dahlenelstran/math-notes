@@ -1,5 +1,5 @@
 #lecture 
-
+- [ ] Sorted
 >Theorem: Let $f: [a,b] \mapsto R$ be bounded. Then if $P$ and $Q$ are any partitions of $[a,b]$, we have:
 >1. if $P \subset Q$, then $L(P,f) \leq L(Q,f)$  and $U(Q,f)\leq U(P,f)$.
 >2. $L(P,f) \leq U(Q,f)$

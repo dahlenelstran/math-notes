@@ -1,4 +1,5 @@
 #lecture
+- [x] Sorted
 >Proposition: Let $I$ be any index set and $H_i(i \in I)$ be subgroups of a group $G$. Then $$\bigcap H_{i}=\{g \in G: g \in H_{i} \text{ for all } i \in I\}$$ is a subgroup of $G$. 
 >>Proof: Let $K=\bigcap H_i$. To show that $K$ is a subgroup, let us check Proposition 15.2, criteria 2:
 >>1. Since each $H_i$ is  a subgroup, the identity element is in each $H_i$, and therefore is in $K$.

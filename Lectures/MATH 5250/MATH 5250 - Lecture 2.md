@@ -1,4 +1,5 @@
 #lecture 
+- [x] Sorted
 >Fact: We typically use multiplicative notation with groups, so we omit the composition sign $\circ$.
 >>Example: $g \circ h = gh$, or $g \circ g = gg = g^2$
 >>Additive Notation would look like this: $g \circ h = g + h$, or $g \circ g = g+g = 2g$.

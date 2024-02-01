@@ -1,4 +1,5 @@
 #lecture 
+- [ ] Sorted
 >Definition: Let $f: D \mapsto R$. A point $x_0 \in D$ is a **relative maximum (minimum)** of function^[[[11 - Functions (or Maps)]]] $f$ if and only if there is a neighborhood $Q$ of $x_0$ such that if $x \in Q \cap D$, then $f(x) \leq f(x_0)$ (for a minimum, $f(x) \geq f(x_0)$). 
 
 >1.7) Theorem^[Lecture 4, 01-23-2024, [[MATH 5500 - Introduction to Analysis II]]]:  Suppose $f: [a,b] \mapsto R$ and suppose $f$ has either a relative max or a relative min at $x_0 \in (a,b)$. If $f$ is differentiable at $x_0$, then $f'(x_0)=0$.

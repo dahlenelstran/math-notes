@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 4.md",
+                "file": "Lectures/MATH 5450/MATH 5450 - Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 4.md",
+                "file": "Lectures/MATH 5450/MATH 5450 - Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 4.md",
+                "file": "Lectures/MATH 5450/MATH 5450 - Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/Topology/Topology - Assignment 4.md"
+                "file": "Lectures/MATH 5450/MATH 5450 - Week 1.md"
               }
             }
           }
@@ -148,14 +148,12 @@
   },
   "active": "29a903e3bc48e666",
   "lastOpenFiles": [
-    "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
-    "Lectures/Topology/Topology - Assignment 4.md",
-    "Topology - Assignment 4.md",
-    "Lectures/MATH 5250/MATH 5250 - Lecture 5.md",
-    "Lectures/MATH 5250/MATH 5250 - Lecture 4.md",
-    "Lectures/MATH 5250/MATH 5250 - Lecture 3.md",
-    "Lectures/MATH 5250/MATH 5250 - Lecture 2.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 1.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 2.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 3.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 4.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 5.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
     "Lectures/MATH 5450/MATH 5450 - Week 2.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
@@ -163,12 +161,14 @@
     "Lectures/MATH 5500/MATH 5500 - Lecture 4.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 5.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 6.md",
-    "Lectures/Quantum Mechanics/Quantum Mechanics - Lecture 2.md",
     "Lectures/Topology/Topology - Assignment 1.md",
     "Lectures/Topology/Topology - Assignment 2.md",
     "Lectures/Topology/Topology - Assignment 3.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
+    "Lectures/Topology/Topology - Assignment 4.md",
     "Lectures/MATH 5450/MATH 5450 - Week 1.md",
+    "Topology - Assignment 4.md",
+    "Lectures/Quantum Mechanics/Quantum Mechanics - Lecture 2.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
     "Topics/14 - IVT, MVT, and Rolle's Theorem.md",
     "Topics/7 - Logic.md",
     "Lectures/Quantum Mechanics/Quantum Mechanics -  Lecture 1.md",

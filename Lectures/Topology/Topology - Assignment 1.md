@@ -1,4 +1,5 @@
 #lecture 
+- [x] Sorted
 >Definition: If both *A* and *B* are sets, *A* is a **proper subset** of *B* if *A* is within *B*, but not equal to it. This is denoted by the subset notation^[[[6 - Notation]]] without the line below it: $A \subset B$. If $A$ is in $B$, but not necessarily not equal to it, then we say it is a **subset** of $B$, denoted by: $A \subseteq B$.  
 
 >Fact: Any set intersected with the empty set is the empty set, and any set unioned with the empty set is itself.

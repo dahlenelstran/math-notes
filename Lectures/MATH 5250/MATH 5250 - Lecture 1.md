@@ -1,4 +1,5 @@
 #lecture
+- [x] Sorted
 > Definition: A **group** is a set *G* together with an operation $\circ$ satisfying the following requirements:
 >>1. **Closure Axiom**: for each pair $x,y$ of elements of *G*, $x \circ y$ is an element of *G*
 >>2. **Associativity Axiom**: for all elements $x, y, z$ of *G*, $(x \circ y) \circ z = x \circ (y \circ z)$

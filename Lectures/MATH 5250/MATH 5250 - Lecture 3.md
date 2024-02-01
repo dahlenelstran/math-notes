@@ -1,5 +1,5 @@
 #lecture 
-
+- [x] Sorted
 >Proposition: In any group $G$, there is only one identity element.
 >>Proof is obvious.
 

@@ -1,4 +1,5 @@
 #lecture
+- [x] Sorted
 >Definition: A subgroup of a group^[[[10 - Groups]]] $G$ is a nonempty subset $H \subset G$ which itself is a group under the same operation as that of $G$. Note that $H \leq G$. 
 >>Two easy examples of subgroups existing in all groups: the group itself, and $\{1\}$. 
 

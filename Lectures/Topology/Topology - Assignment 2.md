@@ -1,4 +1,5 @@
 #lecture 
+- [x] Sorted
 >Note that a rule of assignment $r$ for a function $f: A \mapsto A$ is also a subset of $A \times A$, is considered a relation^[[[13 - Relations]]], just a strict one.
 
 >Remark: Every element of a set $A$ belongs to an equivalence class, and the union of all equivalence classes is equal to $A$.

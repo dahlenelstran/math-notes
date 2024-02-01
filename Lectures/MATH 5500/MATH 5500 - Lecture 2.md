@@ -1,4 +1,5 @@
 #lecture 
+- [ ] Sorted
 >Theorem: Suppose $f, g : D \mapsto R$ are differentiable at $x_0$. Then the following are true:
 >1. (Addition Rule) $(f' \pm g')(x_0) = f'(x_0) \pm g'(x_0)$
 >2. (Product Rule) $(fg)'(x_0) = f'(x_0)g(x_0)+f(x_0)g'(x_0)$
