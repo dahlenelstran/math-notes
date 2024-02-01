@@ -16,3 +16,7 @@
 ### Section 4: Integers and the Real Numbers
 This section was not covered
 ### Section 5: Cartesian Products
+[[20 - Indexing Functions and Arbitrary Sets]]
+## Section 6: Finite Sets
+
+## Section 7: Countable and Uncountable Sets

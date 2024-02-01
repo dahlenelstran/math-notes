@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topology - Assignment 4.md",
+                "file": "Lectures/Topology/Topology - Assignment 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dcffd2c34c90ac58",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topology - Assignment 4.md",
+                "file": "Lectures/Topology/Topology - Assignment 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topology - Assignment 4.md",
+                "file": "Lectures/Topology/Topology - Assignment 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topology - Assignment 4.md"
+                "file": "Lectures/Topology/Topology - Assignment 4.md"
               }
             }
           }
@@ -147,10 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "42719c8a706d54b8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3a3ed06a0875127b",
+        "type": "window",
+        "children": [
+          {
+            "id": "f58dc9bfbf9ff360",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b666ffc10c0aef46",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Textbooks/Topology by Munkres.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2560,
+        "y": 201,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "29a903e3bc48e666",
   "lastOpenFiles": [
+    "Textbooks/Topology by Munkres.md",
+    "Lectures/Topology/Topology - Assignment 4.md",
     "Lectures/Topology/Topology - Assignment 3.md",
-    "Topology - Assignment 4.md",
+    "Topics/20 - Indexing Functions and Arbitrary Sets.md",
+    "Independent Studies/Topology.md",
     "Textbooks/Introduction to Analysis by Gaughan.md",
     "Lectures/MATH 5450/MATH 5450 - Week 1.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
@@ -172,12 +211,9 @@
     "Photos/Spring.png",
     "Photos/Phase Plane.jpg",
     "Untitled.md",
-    "Topics/20 - Indexing Functions and Arbitrary Sets.md",
     "Topics/6 - Bounds.md",
     "Untitled.canvas",
-    "Independent Studies/Topology.md",
     "Independent Studies/Quantum Mechanics.md",
-    "Topics/13 - Relations.md",
     "Classes",
     "12 - Composite Functions.md~",
     "controlcenter",
