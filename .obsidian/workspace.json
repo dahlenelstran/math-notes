@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7ec2c1be89034a",
+        "id": "0cccd2a7f881105f",
         "type": "tabs",
         "children": [
           {
-            "id": "408b81cd35fd46b0",
+            "id": "b17fb96fede372c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daf27bae5d5162d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textbooks/A Course in Group Theory by Humphreys.md",
+                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
+                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
+                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/MATH 5250/MATH 5250 - Lecture 6.md"
+                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md"
               }
             }
           }
@@ -158,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "408b81cd35fd46b0",
+  "active": "b17fb96fede372c6",
   "lastOpenFiles": [
-    "Lectures/MATH 5250/MATH 5250 - Lecture 5.md",
-    "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
+    "Lectures/MATH 5250/MATH 5250 - Lecture 5.md",
     "Classes/MATH 5250 - Modern Algebra.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 7.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 7.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
     "README.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 6.md",
     "Lectures/MATH 5450/MATH 5450 - Week 1.md",

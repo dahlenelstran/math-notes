@@ -15,7 +15,7 @@
 >Theorem (Chain Rule): Let $f: D \mapsto \mathbb{R}$ and $g: D' \mapsto \mathbb{R}$ with $f(D) \subset D'$. Assume $f$ is differentiable at $x_0$ and $g$ is differentiable at $f(x_0)$. Then $g \circ f$^[[12 - Composite Functions]] is differentiable at  $x_0$, and $$(g \circ f)'(x_{0})=g'(f(x_{0}))f'(x_{0})$$
 >>Proof: Let $y_0 = f(x_0)$. Define $h(x) \frac{g(y) - g(y_0)}{y-y_0} \text{ if } y \neq y_0 \text{; } g'(y_0) \text{ if }y=y_0$. Then $$\lim_{ y \to y_{0} }h(y) = \lim_{ y \to y_{0} }\frac{g(y) - g(y_0)}{y-y_0} = g'(y_{0})=h(y_{0}) $$
 >>So we know $h$ is continuous at $y_0$. So $h \circ f$ is continuous at $x_0$.
->>So then define $T(x)=\frac{f(x)-f(x_0)}{x-x_0}, x \in D, x \neq x_0$. Then $\forall x \neq x_0$, we have $$\frac{(g \circ f)(x)-(g \circ f)(x_0)}{x-x_{0}}=(h \circ f)(x) \times T(x)$$ 
+>>So then define $T(x)=\frac{f(x)-f(x_0)}{x-x_0}, x \in D, x \neq x_0$. Then $\forall x \neq x_0$, we have $$\frac{(g \circ f)(x)-(g \circ f)(x_0)}{x-x_{0}}=(h \circ f)(x) \times T(x)$$ >Note that, if $f(x) \neq f(x_0)$, 
 
 **Date:** January 11, 2024
 **Class Page:** [[MATH 5500 - Introduction to Analysis II]]
