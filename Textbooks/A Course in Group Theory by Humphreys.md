@@ -9,6 +9,8 @@
 [[16 - Congruence Modulo N]] 
 ## Chapter 3: Elementary Consequences of the Definitions
 [[10 - Groups]]
-## Subgroups
+## Chapter 4: Subgroups
 [[15 - Subgroups]]
 [[17 - Cyclic Groups]]
+
+## Chapter 5: Cosets and Lagrange's Theorem
