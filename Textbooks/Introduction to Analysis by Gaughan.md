@@ -5,7 +5,6 @@
 [[2 - Continuity of Functions]]
 ### Section 4.2: The Algebra of Derivatives
 [[1 - Differentiation of Functions]]
-### @@@go back and finish!!!!! and look at class notes for sure@@@
 ## Section 4.3: Rolle's Theorem and the Mean Value Theorem
 [[1 - Differentiation of Functions]]
 [[14 - IVT, MVT, and Rolle's Theorem]]

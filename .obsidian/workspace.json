@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
+                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dcffd2c34c90ac58",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/MATH 5500/MATH 5500 - Lecture 2.md"
+                "file": "Textbooks/Introduction to Analysis by Gaughan.md"
               }
             }
           }
@@ -146,10 +147,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b17fb96fede372c6",
+  "floating": {
+    "id": "d7b09603575c3a09",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d12c6274ab8f6780",
+        "type": "window",
+        "children": [
+          {
+            "id": "5e95f0c654ef7720",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e53b9bb42fde35dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Textbooks/Introduction to Analysis by Gaughan.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2560,
+        "y": 201,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e53b9bb42fde35dc",
   "lastOpenFiles": [
-    "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 3.md",
+    "Textbooks/Introduction to Analysis by Gaughan.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 2.md",
+    "Classes/MATH 5500 - Introduction to Analysis II.md",
+    "Lectures/MATH 5500/MATH 5500 - Lecture 1.md",
     "Textbooks/A Course in Group Theory by Humphreys.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 6.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 5.md",
@@ -164,7 +205,6 @@
     "Lectures/MATH 5250/MATH 5250 - Lecture 3.md",
     "Lectures/MATH 5250/MATH 5250 - Lecture 4.md",
     "Lectures/MATH 5450/MATH 5450 - Week 2.md",
-    "Lectures/MATH 5500/MATH 5500 - Lecture 3.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 4.md",
     "Lectures/MATH 5500/MATH 5500 - Lecture 5.md",
     "Lectures/Topology/Topology - Assignment 1.md",
@@ -172,8 +212,6 @@
     "Lectures/Topology/Topology - Assignment 3.md",
     "Lectures/Topology/Topology - Assignment 4.md",
     "Topology - Assignment 4.md",
-    "Lectures/Quantum Mechanics/Quantum Mechanics - Lecture 2.md",
-    "Textbooks/Introduction to Analysis by Gaughan.md",
     "Photos/Spring.png",
     "Photos/Phase Plane.jpg",
     "Untitled.canvas",
