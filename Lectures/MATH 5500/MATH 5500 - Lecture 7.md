@@ -1,4 +1,4 @@
-#lecture 
+s#lecture 
 - [ ] Sorted
 
 ## Examples:
